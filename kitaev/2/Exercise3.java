@@ -1,7 +1,5 @@
 package com.company;
 
-import java.util.Scanner;
-
 public class Exercise3 {
     public static void main(String[] args) {
         int[] array = {1, 5, 10, 2, 3, 3, 3, 3, 3, -2};
@@ -20,7 +18,5 @@ public class Exercise3 {
             }
         }
         System.out.println(index);
-        Scanner scan = new Scanner(System.in);
-        scan.nextLine();
     }
 }

@@ -1,7 +1,5 @@
 package com.company;
 
-import java.util.Scanner;
-
 public class Exercise2 {
     public static void main(String[] args) {
         int num = 6;
@@ -15,7 +13,5 @@ public class Exercise2 {
             i++;
         }
         System.out.println(sum);
-        Scanner scan = new Scanner(System.in);
-        scan.nextLine();
     }
 }
