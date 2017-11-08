@@ -1,6 +1,6 @@
 package com.company;
 
-public class Exercise3 {
+public class Exercise1 {
     public static void main(String[] args) {
         MyDouble var0 = new MyDouble(123123123d);
         MyDouble var1 = new MyDouble(-1234123422d);
