@@ -4,7 +4,6 @@ public class Person {
     private String secondName;
     private int birthdayDate;
     private String country;
-
     private static int COUNTOFPERSON;
 
     public Person(String firstName, String secondName, int birthdayDate, String country) {

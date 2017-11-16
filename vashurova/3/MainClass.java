@@ -1,6 +1,3 @@
-import com.sun.org.apache.xml.internal.dtm.ref.sax2dtm.SAX2DTM2;
-
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 
 public class MainClass {
@@ -34,6 +31,6 @@ public class MainClass {
         }
         System.out.println("In total: " + sumOfPages);
 
-        System.out.print(Person.getCOUNTOFPERSON());
+        System.out.print("Num of created Person objects: " + Person.getCOUNTOFPERSON());
     }
 }
